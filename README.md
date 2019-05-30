@@ -6,6 +6,8 @@
 - 爬取网站的地址：http://www.imooc.com/course/list
 ![慕课网站](./resource/image/1.jpg)
 
-### 爬取出的数据样式，如下所示：
-![慕课网站](./resource/image/2.png)
+### 爬取出的数据样式
+--------------------
+- 存入到MySQL数据库的数据样式如下所示：
+![数据样式](./resource/image/2.png)
 --------------------
